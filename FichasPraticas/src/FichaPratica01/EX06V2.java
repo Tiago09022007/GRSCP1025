@@ -1,10 +1,10 @@
-package FichaPratica1;
+package FichaPratica01;
 
 import java.util.Scanner;
 
-public class EX06V2 public class Ex06 {
+public class EX06V2 {
 
-    public static void main (String[] args){
+    public static void main (String[] args) {
 
 
         Scanner input = new Scanner(System.in);
@@ -25,10 +25,9 @@ public class EX06V2 public class Ex06 {
         valor1 = valor1 - valor2;
 
 
-
         System.out.println("\nvalor1: " + valor1);
         System.out.println("valor2: " + valor2);
 
 
-        {
+    }
 }

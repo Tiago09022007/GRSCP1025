@@ -7,7 +7,7 @@ public class Ex05 {
 
      Scanner input = new Scanner(System.in);
 
-     Scanner.out
+
 
     }
 }

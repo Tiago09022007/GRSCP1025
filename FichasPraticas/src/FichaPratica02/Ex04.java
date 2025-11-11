@@ -13,32 +13,32 @@ public class Ex04 {
         int pontos;
 
         switch (lugar) {
-            case "1":
-                pontos = "10";
+            case 1:
+                pontos = 10;
                 break;
-            case "2":
-                pontos = "8";
+            case 2:
+                pontos = 8;
                 break;
-            case "3":
-                pontos = "6";
+            case 3:
+                pontos = 6;
                 break;
-            case "4":
-                pontos = "5";
+            case 4:
+                pontos = 5;
                 break;
-            case "5":
-                pontos = "4";
+            case 5:
+                pontos = 4;
                 break;
-            case "6":
-                pontos = "3";
+            case 6:
+                pontos = 3;
                 break;
-            case "7":
-                pontos = "2";
+            case 7:
+                pontos = 2;
                 break;
-            case "8":
-                pontos = "1";
+            case 8:
+                pontos = 1;
                 break;
             default:
-                pontos = "0";
+                pontos = 0;
         }
 
         if (pontos > 0) {
