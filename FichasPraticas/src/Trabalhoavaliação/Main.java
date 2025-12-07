@@ -4,7 +4,9 @@ import javax.security.auth.login.LoginContext;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
+    private static Object loja1, loja2; static Object quantidade;
+
+    public void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
         //Declarar as variáveis
@@ -200,6 +202,62 @@ public class Main {
             System.out.println("1: ");
             System.out.println("Alimento: ");
             System.out.println("0: ");
+
+        //Produto2
+        if (codigoproduto2 == 20)
+            System.out.println("Computador: ");
+            System.out.println("2: ");
+            System.out.println("Desktop: ");
+            System.out.println("0: ");
+
+        //Produto3
+        if (codigoproduto3 == 30)
+            System.out.println("Televisão: ");
+        System.out.println("3: ");
+        System.out.println("Full HD: ");
+        System.out.println("0: ");
+
+        //Produto4
+        if (codigoproduto4 == 40)
+            System.out.println("Sofá: ");
+        System.out.println("4: ");
+        System.out.println("Sofá-cama: ");
+        System.out.println("0: ");
+
+
+        //Produto5
+        if (codigoproduto5 == 50)
+            System.out.println("Bolachas: ");
+        System.out.println("5: ");
+        System.out.println("Alimento: ");
+        System.out.println("0: ");
+
+        //Produto6
+        if (codigoproduto6 == 60)
+            System.out.println("Computador: ");
+        System.out.println("6: ");
+        System.out.println("Desktop: ");
+        System.out.println("0: ");
+
+        //Produto7
+        if (codigoproduto7 == 70)
+            System.out.println("Televisão: ");
+        System.out.println("7: ");
+        System.out.println("Full HD: ");
+        System.out.println("0: ");
+
+        //Produto8
+        if (codigoproduto8 == 80)
+            System.out.println("Sofá: ");
+        System.out.println("8: ");
+        System.out.println("Sofá-cama: ");
+        System.out.println("0: ");
+
+
+     
+
+
+
 
 
           }
