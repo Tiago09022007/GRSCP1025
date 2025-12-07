@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Ex12 {
 
+<<<<<<< Updated upstream
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
@@ -41,5 +42,8 @@ public class Ex12 {
         System.out.println("[76,100]: " + intervalo76_100);
 
     }
+=======
+
+>>>>>>> Stashed changes
 }
 
