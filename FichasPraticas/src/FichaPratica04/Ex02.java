@@ -1,6 +1,5 @@
 package FichaPratica04;
 
-<<<<<<< Updated upstream
 import java.util.Scanner;
 
 public class Ex02 {
@@ -24,22 +23,3 @@ public static void main(String[] args) {
 
 }
 
-=======
-public class Ex02 {
-    public static void main(String[] args) {
-
-        int soma = 0;
-
-        System.out.println("Números ímpares entre 11 e 51:");
-
-        for (int i = 11; i <= 51; i++) {
-            if (i % 2 != 0) {
-                System.out.println(i);
-                soma += i;
-            }
-        }
-
-        System.out.println("Somatório: " + soma);
-    }
-}
->>>>>>> Stashed changes
