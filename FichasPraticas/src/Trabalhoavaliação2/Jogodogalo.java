@@ -25,7 +25,7 @@ public class Jogodogalo {
     }
 
     /**
-     * Procedimento que controla o fluxo principal de uma partida [cite: 9, 10]
+     * Procedimento que controla o fluxo principal de uma partida
      */
     public static void jogar() {
         // Declaração da matriz 3x3 para o tabuleiro
